@@ -132,7 +132,7 @@ USERNAME=testuser PASSWORD=testpass API_URL=https://api.example.com ./run-test.s
 - 8-24 hour duration
 - Monitor memory leaks and performance degradation
 
-### 🎯 Performance Targets
+### 5. 🎯 Performance Targets
 
 - The tests validate against these thresholds:
 - Response Time: p(95) < 500ms
